@@ -1,10 +1,5 @@
 # agency-report-builder
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org/)
-[![CI](https://github.com/mehranmoghadasi/agency-report-builder/actions/workflows/python-app.yml/badge.svg)](https://github.com/mehranmoghadasi/agency-report-builder/actions/workflows/python-app.yml)
-[![Last Commit](https://img.shields.io/github/last-commit/mehranmoghadasi/agency-report-builder)](https://github.com/mehranmoghadasi/agency-report-builder)
-
 > Pull GA4 and Google Search Console data for any client, render a branded HTML report with full KPI comparisons, channel breakdowns, and top queries — then export to PDF in one command.
 
 ---
@@ -260,8 +255,3 @@ Issues and PRs welcome. If you're adding a new data source (e.g. Google Ads), fo
 ## License
 
 MIT — see [LICENSE](LICENSE)
-
-## About the Author
-
-**Mehran Moghadasi** — Digital Marketing & Brand Manager (SEO · Google Ads · Meta Ads · Social Media), Calgary, AB. This project automates the monthly reporting grind that costs agencies hundreds of hours a year.
-[github.com/mehranmoghadasi](https://github.com/mehranmoghadasi) · [linkedin.com/in/mehranmoghadasi](https://www.linkedin.com/in/mehranmoghadasi)
